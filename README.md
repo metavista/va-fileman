@@ -6,7 +6,7 @@ The current VA Fileman development project in VA is version 23 alpha.
 
 This contains the planning, development, code, issues,documentation, and other artifacts of the current VA Fileman development efforts of VA.  
 
-This Github will be continously updated with all VA Fileman artifacts as they are avilable.
+This Github will be continously updated with all VA Fileman artifacts as they are available.
 
 ### Getting Started
 
